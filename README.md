@@ -5,6 +5,7 @@ Types of Data Analyst:
 3.Diagnostic
 4.Descriptive
 Based on these 4:
+
 1.Business Intelligence
 2.Financial 
 3.Healthcare
